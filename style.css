@@ -1,0 +1,77 @@
+html {
+  background-color:#0B610B;
+}
+
+table {
+  border-style:hidden;
+  width:100%;
+}
+li {
+  list-style-type: none;
+}
+
+tr {
+  width:90%;
+}
+
+td {
+  width:50%;
+  padding:20px;
+  vertical-align:top;
+}
+
+div.language {
+  text-align:left;
+  font-size:12pt;
+}
+
+div.searchBox {
+  text-align:right;
+  font-size:12pt;
+}
+
+div.gistHead {
+  margin-top:5px;
+  font-weight:bold;
+  font-size:16pt;
+}
+
+div.gistResult {
+  margin-top:10px;
+  font-size:12pt;
+  padding:20px;
+  border-color:#d3d3d3;
+  border-width:thin;
+  border-style:solid;
+  background-color:#F7FE2E;  
+}
+
+div.favGistHead {
+  margin-top:10px;
+  margin-right:10px;
+  font-weight:bold;
+  font-size:16pt;
+}
+
+div.favGistResult {
+  margin-top:10px;
+  padding:20px;
+  border-width:10px;
+  background-color:#F7FE2E;
+  border-color:#d3d3d3;
+  border-width:thin;
+  border-style:solid;  
+  font-size:12pt;
+}
+
+.CSSbutton {
+  background-color:#0101DF;
+  color:#ffffff;
+  font-size:12pt;
+}
+
+button {
+  background-color:#0101DF;
+  color:#ffffff;
+  font-size:12pt;
+}
